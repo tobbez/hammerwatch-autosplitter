@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Hammerwatch</GameName>
+  <CategoryName>Any% Solo</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Floor 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Queen</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Knight</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 9</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Lich</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 11</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Floor 12</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dragon Reached</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dragon Killed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
